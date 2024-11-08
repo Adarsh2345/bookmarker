@@ -1,10 +1,9 @@
-Here’s a template for a `CONTRIBUTING.md` document based on your requirements. This template will give contributors clear guidance on how to participate effectively.
 
 ---
 
-# Contributing to [Project Name]
+# Contributing to this project
 
-Thank you for considering contributing to [Project Name]! We appreciate your interest in helping us improve and grow. This document will guide you through the process of contributing to our project.
+Thank you for considering contributing to this project . We appreciate your interest in helping us improve and grow. This document will guide you through the process of contributing to our project.
 
 ## Table of Contents
 
